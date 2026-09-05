@@ -16,7 +16,7 @@
 | 2026-08-09 | 서빙 시스템 설계, 프로덕션 모범 사례 | [노트](serving-engine-and-production-architecture.md) | [실습](labs/serving-engine-and-production-architecture.md) |
 | 2026-08-16 | 서빙 병목과 필수 최적화 기법 | [노트](serving-bottlenecks-and-optimization.md) | [실습](labs/serving-bottlenecks-and-optimization.md) |
 | 2026-08-23 | 고급 최적화, 서빙 프레임워크 | [노트](advanced-optimization-and-serving-frameworks.md) | [실습](labs/advanced-optimization-and-serving-frameworks.md) |
-| 2026-08-30 | 실제 적용, 새로운 방향 | 작성 예정 | — |
+| 2026-08-30 | 실제 적용, 새로운 방향 | [노트](optimization-in-practice-and-emerging-directions.md) | [실습](labs/optimization-in-practice-and-emerging-directions.md) |
 | 2026-09-06 | AWS Workshop: Generative AI on Amazon EKS | 작성 예정 | — |
 | 2026-09-13 | llm-d + KServe | 작성 예정 | — |
 
